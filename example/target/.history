@@ -1,0 +1,14 @@
+ls
+scala
+console
+run
+test
+console
+;reload; */*:dumpStructureTo /private/var/folders/99/xkspzz8x3195056368hnlkv80000gn/T/sbt-structure.xml download resolveClassifiers resolveSbtClassifiers
+compile
+run
+test
+compile
+test
+submit ameyruikar@yahoo.com pqiTyBfYu76mMER9
+exit
